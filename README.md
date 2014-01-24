@@ -7,3 +7,4 @@ this is a repository for study.
 
 変更したよ！他人だよ！
 
+ブランチで文字をついかしたよー
