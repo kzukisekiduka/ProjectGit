@@ -7,7 +7,7 @@ MY_PASSWORD = 'Seki1555@@'
 TO_ADDRESS = 'kazukisekiduka@gmail.com'
 # BCC = 'receiver2@test.net'
 SUBJECT = 'Hirokuからあなたへ'
-BODY = '届いた？'
+BODY = 'gitから届いた？'
 
 
 def create_message(from_addr, to_addr, subject, body):
