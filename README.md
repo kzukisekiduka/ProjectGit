@@ -9,3 +9,4 @@ this is a repository for study.
 
 ブランチで文字をついかしたよー。追加したよ。
 
+なんとなく追加してみた。
